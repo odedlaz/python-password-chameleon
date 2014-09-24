@@ -70,5 +70,5 @@ if __name__ == "__main__":
     try:    
         main(sys.argv)
     except KeyboardInterrupt: 
-        print("\nbye!")
+        print("\nbye bye!")
         pass
